@@ -1,3 +1,4 @@
 (authorizations
   (version 0)
-  (("994A 2F91 D8ED A3A7 E453  5B90 56BF D6BB F2F3 B1B4" (name "xaverh"))))
+  (("994A 2F91 D8ED A3A7 E453  5B90 56BF D6BB F2F3 B1B4" (name "xaverh"))
+   ("5DE3 E050 9C47 EA3C F04A  42D3 4AEE 18F8 3AFD EB23" (name "GitHub"))))
